@@ -1,3 +1,5 @@
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+
 # [delivery-api](https://github.com/delivery-api)
 É um projeto que tem o objetivo de demostrar o uso do projeto *Spring Cloud*.
 
