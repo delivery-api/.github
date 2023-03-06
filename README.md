@@ -17,9 +17,9 @@ Micro service de pedido e entregas de produtos.
 - transportador: gestão do voucher: gera o *voucher* para uma origem e destino
 - fornecedor: gestão do catálogo: mantém o catálogo; executa os pedidos
 
-### Estrutura / endpoints:
+### Estrutura 
 
-(...)
+<img width="375" alt="image" src="https://user-images.githubusercontent.com/42658870/223151534-2a7fcb52-93fc-49f4-bb9e-c364b1ad1b67.png">
 
 ## Tecnologias
 - Spring Cloud 2022.0.1
